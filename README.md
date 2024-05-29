@@ -34,18 +34,21 @@ This dataset may be used for in-depth content research, such as genre popularity
 ![top genre](https://github.com/Fav-Mayo/Netflix-titles/assets/157006710/016f8faa-8344-484c-a5e8-94e63b9b92e4)
 
 Dramas, International Movies- 362| Documentaries-359| Stand-Up Comedy-334| Comedies, Dramas, International Movies-274| Dramas, Independent Movies, International Movies-252| Kids' TV-220| Children & Family Movies-215| Children & Family Movies, Comedies-201| Documentaries, International Movies 186| Dramas, International Movies, Romantic Movies-180
+
 Dramas, International Movies leads in the movie genre, followed by Documentaries, Stand-Up Comedy and other genres.
 
 ### Top 10 Directors
 ![top directors](https://github.com/Fav-Mayo/Netflix-titles/assets/157006710/0a2f2bbf-30dc-4087-bc34-5531b62a5475)
 
 Rajiv Chilaka-22| Raúl Campos-18| Jan Suter-18| Suhas Kadav-16| Marcus Raboy-16| Jay Karas-15| Cathy Garcia-Molina-13| Jay Chapman-12| Martin Scorsese-12| Youssef Chahine-12
+
 Rajiv Chilaka leads as the top director with highest movies produced followed by Raúl Campos, Jan Suter and other Directors.
 
 ### Top 10 Casts
 ![top cast](https://github.com/Fav-Mayo/Netflix-titles/assets/157006710/be9a2832-61a1-440d-8bda-9c1fe25d907b)
 
 Anupam Kher-39| Rupa Bhimani-31| Takahiro Sakurai-30| Julie Tejwani-28| Om Puri-27| Rajesh Kava-26| Shah Rukh Khan-26| Yuki Kaji-25| Andrea Libman-25| Boman Irani-25
+
 Anupam Kher leads as the top cast followed by Rupa Bhimani, Takahiro Sakurai and other casts
 
 
