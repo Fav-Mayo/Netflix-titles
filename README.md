@@ -42,6 +42,7 @@ Rajiv Chilaka-22| Raúl Campos-18| Jan Suter-18| Suhas Kadav-16| Marcus Raboy-16
 
 ### Top 10 Casts
 ![top cast](https://github.com/Fav-Mayo/Netflix-titles/assets/157006710/be9a2832-61a1-440d-8bda-9c1fe25d907b)
+
 Anupam Kher39| Rupa Bhimani31| Takahiro Sakurai30| Julie Tejwani-28| Om Puri-27| Rajesh Kava-26| Shah Rukh Khan-26| Yuki Kaji-25| Andrea Libman-25| Boman Irani-25
 
 
